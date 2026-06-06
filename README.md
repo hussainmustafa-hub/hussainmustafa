@@ -1,7 +1,3 @@
-# hussainmustafa
-Aspiring AI Engineer | Learning Python &amp; ML | Lahore, Pakistan
-
-
 # Hi, I'm Hussain Mustafa 👋
 
 I'm an aspiring AI Engineer based in Lahore, Pakistan.
